@@ -1,0 +1,36 @@
+#hello-world {
+    font-family:Helvetica;
+}
+
+.red-div {
+    margin: -7.7px;
+    height: 240px;
+    width: 350px;
+    background-color: red;
+}
+
+.flag {
+    margin: -7.7px;
+    height:100px;
+    width:500px;
+}
+
+#black{    
+    background-color: black;
+}
+
+#red{
+    background-color: red;
+}
+
+#gold{
+    background-color: gold;
+}
+
+.block-inline {
+    display: inline-block;
+    margin: 50px;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
